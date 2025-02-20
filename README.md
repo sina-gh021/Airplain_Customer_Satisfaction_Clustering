@@ -34,6 +34,5 @@ The dataset used in this project is the **Airline Passenger Satisfaction Dataset
 
 ## Results & Discussion
 - **For the Airplane Passenger Satisfaction dataset**, K-Means clustering achieved moderate alignment with true labels, though significant overlap was observed between classes.
-- **For the Bank Customer Churn dataset**, clustering performed poorly, with results close to random, indicating that customer churn is not easily separable based on feature similarity alone.
 - **Dimensionality Reduction (PCA)** did not significantly improve clustering performance but helped in visualization.
 - **2D & 3D Visualizations** showed that data points were highly overlapped, confirming that K-Means may not be the best approach for this problem.
